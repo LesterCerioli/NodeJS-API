@@ -1,4 +1,4 @@
-# 1972 - Criando APIs com NodeJs
+# NodeJs API - Criando APIs com NodeJs
 
 ### LINK PARA OS VÍDEOS
 Você pode assistir os vídeos deste curso sendo um assinante do site http://balta.io.
