@@ -12,7 +12,7 @@
   "dependencies": {
     "azure-storage": "^2.1.0",
     "body-parser": "^1.17.2",
-    "debug": "^2.6.8",
+    "debug": "^2.6.9",
     "express": "^4.15.3",
     "guid": "0.0.12",
     "http": "0.0.0",
